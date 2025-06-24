@@ -35,9 +35,9 @@ Enfocado en crear soluciones limpias, escalables y sobretodo funcionales
 <h2 align="center">📫 ¿Quieres contactarme? </h2>
 
 <p align="center">
-  Puedes escribirme a través de [LinkedIn](https://www.linkedin.com/in/tu-usuario)<br>
+  Puedes escribirme a través de [LinkedIn](https://www.linkedin.com/in/mariogndev)<br>
   o<br>
-  Escribir un correo electronico a [mi correo electrónico](mailto:mariogn1987@gmail.com)
+  Escribir un correo electrónico a [mi correo electrónico](mailto:mariogn1987@gmail.com)
 </p>
 
 ---
