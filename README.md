@@ -13,9 +13,9 @@
 
 ### 🧪 Un poco sobre mí
 
-- 🎓 Formación:
-        - Desarrollo de Aplicaciones Web (DAW) LaSalle
-        - B1 Cambridge school
+- 🎓 Formación:<br>
+        - Desarrollo de Aplicaciones Web (DAW) LaSalle<br>
+        - B1 Cambridge school<br>
 - 🛠️ Experiencia con aplicaciones web modernas y APIs RESTful
 - 🎯 Enfocado en crear soluciones limpias, escalables y sobretodo funcionales
 
