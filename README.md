@@ -3,7 +3,7 @@
 
 ---
 
-  <h2 aling="center"> 🖥️Tecnologías con las que trabajo</h2>
+  <h2 aling="center">🖥️Tecnologías con las que trabajo</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,mongodb,php,laravel,git" alt="Tecnologías" />
