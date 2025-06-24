@@ -6,16 +6,18 @@
 ### 🧰 Tecnologías con las que trabajo
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,mongodb,php,laravel,git" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,mongodb,php,laravel,git" alt="Tecnologías" />
 </div>
 
 ---
 
 ### 🧪 Un poco sobre mí
 
-- 🎓 Formación: Desarrollo de Aplicaciones Web (DAW)
+- 🎓 Formación:
+        * Desarrollo de Aplicaciones Web (DAW) LaSalle
+        * B1 Cambridge school
 - 🛠️ Experiencia con aplicaciones web modernas y APIs RESTful
-- 🎯 Enfocado en crear soluciones limpias, escalables y funcionales y sobretodo funcionales
+- 🎯 Enfocado en crear soluciones limpias, escalables y sobretodo funcionales
 
 ---
 
