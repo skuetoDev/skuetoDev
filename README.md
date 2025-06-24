@@ -3,7 +3,7 @@
 
 ---
 
-  <h2 align="center">🖥️Tecnologías con las que trabajo</h2>
+  <h2 align="center">🖥️ Tecnologías con las que trabajo</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,mongodb,php,laravel,git" alt="Tecnologías" />
@@ -11,7 +11,7 @@
 
 ---
 
-<h2 align="center">Un poco sobre mí 🚀</h2>
+<h2 align="center">🚀 Un poco sobre mí </h2>
 Soy un Full-Stack Developer,aunque con preferencia en el Front-End 🌟 en plena transformación, apasionado de las interfaces funcionales y atractivas. Estoy terminando mi CFGS en DAW y durante mi aprendizaje he desarrollado habilidades con JavaScript, Java, HTML, CSS, SQL o Angular entre otros. 
 Estoy constante en búsqueda de oportunidades para aplicar mis conocimientos y contribuir al desarrollo de soluciones innovadoras.
 Enfocado en crear soluciones limpias, escalables y sobretodo funcionales
@@ -32,9 +32,9 @@ Enfocado en crear soluciones limpias, escalables y sobretodo funcionales
 
 ---
 
-<h2>📫 ¿Quieres contactarme? </h2>
+<h2 align="center">📫 ¿Quieres contactarme? </h2>
 
-<p>
+<p align="center">
   Puedes escribirme a través de [LinkedIn](https://www.linkedin.com/in/tu-usuario)<br>
   o<br>
   Escribir un correo electronico a mariogn1987@gmail.com
