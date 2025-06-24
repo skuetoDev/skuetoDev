@@ -7,6 +7,8 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,mongodb,php,laravel,git" alt="Tecnologías" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" alt="MariaDB" />
 </div>
 
 ---
@@ -18,7 +20,7 @@ Enfocado en crear soluciones limpias, escalables y sobretodo funcionales
 
 <h2 align="center">🎓 Formación:<h2>
        <h3>🔹Desarrollo de Aplicaciones Web (DAW) LaSalle</h3>
-       <h3>🔹B1 Cambridge school</h3>
+       <h3>🔹B1  Inglés Cambridge school</h3>
 
 
 ---
@@ -35,11 +37,11 @@ Enfocado en crear soluciones limpias, escalables y sobretodo funcionales
 <h2 align="center">📫 ¿Quieres contactarme? </h2>
 
 <p align="center">
-  Puedes escribirme a través de [LinkedIn](https://www.linkedin.com/in/mariogndev)<br>
+  Puedes escribirme a través de <a href="mailto:mariogn1987@gmail.com"> mi correo electrónico</a><br>
   o<br>
-  Escribir un correo electrónico a Puedes escribirme a [mi correo](mailto:mariogn1987@gmail.com)
+  Contacta conmigo mediante <a href="https://www.linkedin.com/in/mariogndev/" tarjet="_blank">LinkedIn</a>
 </p>
 
 ---
 
-<p align="center">"Codea como si la persona que mantendrá tu código supiera dónde vives." 😄</p>
+<p align="center">"Fui el mejor porque no me rendí nunca"... Michael Jordan 💪</p>
