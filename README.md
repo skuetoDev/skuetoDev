@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">¡Hola! Soy Mario 👋</h1>
+<p align="center">💻 Desarrollador Web | 🧠 Apasionado por la tecnología | 🌐 En constante aprendizaje</p>
 
-<!--
-**mariognDev/mariognDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧰 Tecnologías con las que trabajo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,mongodb,php,laravel,git" alt="Tecnologías" />
+</div>
+
+---
+
+### 🧪 Un poco sobre mí
+
+- 🎓 Formación: Desarrollo de Aplicaciones Web (DAW)
+- 🛠️ Experiencia con aplicaciones web modernas y APIs RESTful
+- 🎯 Enfocado en crear soluciones limpias, escalables y funcionales y sobretodo funcionales
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariogarcia&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariogarcia&layout=compact&theme=default" height="160"/>
+</div>
+
+---
+
+### 📫 ¿Quieres contactarme?
+
+Puedes escribirme a través de [LinkedIn](https://www.linkedin.com/in/tu-usuario)
+
+---
+
+<p align="center">"Codea como si la persona que mantendrá tu código supiera dónde vives." 😄</p>
