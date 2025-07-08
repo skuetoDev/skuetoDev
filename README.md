@@ -45,7 +45,7 @@ Enfocado en crear soluciones limpias, escalables y sobretodo funcionales
 <p align="center">
   Puedes escribirme a través de <a href="mailto:mariogn1987@gmail.com"> mi correo electrónico</a><br>
   o<br>
-  Contacta conmigo mediante <a href="https://www.linkedin.com/in/mariogndev/" tarjet="_blank">LinkedIn</a>
+  Contacta conmigo mediante <a href="https://www.linkedin.com/in/mariogndev/" target="_blank">LinkedIn</a>
 </p>
 
 ---
