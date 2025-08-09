@@ -29,15 +29,18 @@ Enfocado en crear soluciones limpias, escalables y sobretodo funcionales
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats skuetoDev 🚀</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariogarcia&show_icons=true&theme=default"/>
-  <img
-  alt="mariognDev Top Langs"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariognDev&show_icons=true&theme=transparent"
-/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=skuetoDev&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skuetoDev&show_icons=true&&theme=transparent"/>
 </div>
+
+<h2 align="center">📊 GitHub Stats mariogarcia 🌟 </h2>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mariogarcia&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariogarcia&show_icons=true&&theme=transparent"/>
+</div>
+
 
 ---
 
