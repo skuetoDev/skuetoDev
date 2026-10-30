@@ -15,7 +15,7 @@
 
 Soy desarrollador Full-Stack con preferencia por el Front-End 🌟, apasionado de las interfaces funcionales y atractivas. Trabajo con Angular, React y TypeScript en el front, y con Laravel/PHP y Node.js en el back.
 
-Me enfoco en crear soluciones limpias, escalables y, sobre todo, funcionales, y siempre estoy buscando oportunidades para aplicar lo que sé y seguir aprendiendo. Actualmente me encuentro trabajo con paquetes de **SqlServer Integration Services** y java para una plataforma E-comerce
+Me enfoco en crear soluciones limpias, escalables y, sobre todo, funcionales, y siempre estoy buscando oportunidades para aplicar lo que sé y seguir aprendiendo. Actualmente me encuentro trabajando con paquetes de **SqlServer Integration Services** y Java para una plataforma E-comerce.
 
 ---
 
